@@ -13,7 +13,6 @@
 
 
 #include <stdio.h>
-#include <wchar.h>
 
 int main(int argc, char *argv[]) {
 
@@ -27,8 +26,7 @@ int main(int argc, char *argv[]) {
 
 
 
-    wchar_t myChar = '\u00f3';
-    printf("%c\n", myChar);
+    printf("\U0001f602 \n");
 
 
 
