@@ -10,3 +10,26 @@
  *
  *
  */
+
+
+#include <stdio.h>
+
+int main(int argc, char *argv[]) {
+
+    /* create a string over two lines and print it out */
+    /* using various methods.                          */
+
+    const char str1[] = "Mary had a little lamb, her fleece was white "
+    "as snow. And everywhere that Mary went, the lamb was sure to go.";
+
+    printf("%s\n", str1);
+
+
+
+
+
+
+
+
+    return(0);
+}
