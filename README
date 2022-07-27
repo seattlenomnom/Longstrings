@@ -1,5 +1,9 @@
 /* readme for longstrings;
 *     longstrings practices declaring/defining long strings. It will also
 *  experiment with using universal characters.
+*     This is an example program from Kochan, Stephen G., "Programming in C
+*  3rd ed.", Sams Publishing. Actually not an example, a program designed and
+*  written by me to experiment with long strings and universal characters.
 *
+*  Programmer: Mark Crapser.
 */
